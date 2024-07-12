@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta31&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta31" /> </p>
 
-- 🌱 I’m currently learning **Full stack web development in Masai School (Bangalore)(Banglore**
+- 🌱 I’m currently learning **Full stack web development in Masai School (Bangalore)**
 
 - 📫 How to reach me **yashsantoshgupta2019@gmail.com**
 
