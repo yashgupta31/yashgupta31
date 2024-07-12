@@ -1,41 +1,20 @@
-## Hi there 👋
-im yash <h1>head</h1>
-# Hi there, I'm Yash! 👋
+<h1 align="center">Hi 👋, I'm Yash</h1>
+<h3 align="center">A creative frontend developer specializing in responsive and user-friendly web interfaces.</h3>
 
-## 🚀 About Me
-I am a passionate Full Stack Web Developer from Yavatmal, India. With a background in Commerce and a keen interest in coding, I have honed my skills in the MERN stack and enjoy building web applications that solve real-world problems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta31&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta31" /> </p>
 
-## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript, Node.js
-- **Frameworks/Libraries:** React, Express.js
-- **Database:** MongoDB
-- **UI Libraries:** Chakra UI
-- **Other Tools:** Git, GitHub, JWT, bcrypt
+- 🌱 I’m currently learning **Full stack web development in Masai School (Bangalore)(Banglore**
 
-## 🌱 What I'm Currently Learning
-I am currently delving deeper into advanced authentication techniques and exploring new front-end libraries to enhance my projects.
+- 📫 How to reach me **yashsantoshgupta2019@gmail.com**
 
-## 💼 Projects
-Here are a few projects I've been working on:
-- **Movie Store API:** A comprehensive API built with Express and Mongoose featuring CRUD operations, filtering, sorting, and pagination.
-- **Personal Library Application:** A RESTful API for managing a personal library with features like book categorization, reviews, user authentication, and more.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JtNiNfhDvkpI5-1Fay5VPRYCBp7R0vx-/view?usp=sharing](https://drive.google.com/file/d/1JtNiNfhDvkpI5-1Fay5VPRYCBp7R0vx-/view?usp=sharing)
 
-## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashgupta2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashgupta2001" height="30" width="40" /></a>
+</p>
 
-## ⚡ Fun Fact
-Yavatmal, my hometown, is known as the Cotton City of India and celebrates a unique Navaratri festival. The local community speaks Marathi and Hindi, and the people are incredibly supportive.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-## 📈 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-## 💬 Let's Connect!
-Feel free to reach out if you want to collaborate on a project, need help with web development, or just want to say hi!
-
----
-
-Thanks for visiting my profile! Have a great day! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta31&" alt="yashgupta31" /></p>
