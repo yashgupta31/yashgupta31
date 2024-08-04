@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A creative frontend developer specializing in responsive and user-friendly web interfaces.</h3>
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="500"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta31&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta31" /> </p>
 
