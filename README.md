@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JtNiNfhDvkpI5-1Fay5VPRYCBp7R0vx-/view?usp=sharing](https://drive.google.com/file/d/1JtNiNfhDvkpI5-1Fay5VPRYCBp7R0vx-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<div display="flex" align="center" >
+<span display="flex" align="center" >
 <a href="https://linkedin.com/in/yashgupta2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashgupta2001" height="30" width="40" /></a>
   <a> <img src="https://www.svgrepo.com/download/217146/gmail.svg" height="30" width="40" /></a>
 </p>
