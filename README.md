@@ -1,5 +1,5 @@
 
-<img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g4MWV3MzV6NnFzcG04NGlkM2lxcDFveWVpcXU1NmtwaHYzbmYxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding GIF" width="100%](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)"/>
+<img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Coding GIF" width="100%](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)"/>
 
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
